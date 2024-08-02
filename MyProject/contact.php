@@ -17,7 +17,7 @@
             $email = "";
             $subject = "";
             $desc = "";
-            header("Location:dashboard.php/#chat");
+            header("Location:dashboard.php");
             echo "done";
         }
     }

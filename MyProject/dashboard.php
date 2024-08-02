@@ -324,9 +324,9 @@ $conn = new mysqli("localhost", "root", "", "myproject");
 
                                         <div class="row mt-3">
                                             <div class="col-12 flex-btn-group">
-                                                <a href="resume.pdf" target="_blank" class="btn btn-outline-warning">Get CV</a>
-                                                <a href="#chat" class="btn btn-outline-light">Contact</a>
-                                                <a href="" class="btn btn-outline-info">Hire Now</a>
+                                                <a href="resume.pdf" target="_blank" class="btn btn-outline-warning">Edit</a>
+                                                <a href="#chat" class="btn btn-outline-light">Update CV</a>
+                                                <a href="" class="btn btn-outline-danger">Delete</a>
                                             </div>
                                         </div>
 
